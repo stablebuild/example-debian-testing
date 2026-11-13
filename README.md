@@ -1,6 +1,7 @@
 # debian-testing example
 
 A small example showing how to pin debian-testing with [StableBuild](https://www.stablebuild.com/).
+Pin the bleeding edge.
 
 # How to build
 
